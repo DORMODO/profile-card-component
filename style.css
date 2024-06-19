@@ -73,12 +73,12 @@ body {
 }
 
 .bg-pattern-top {
-  top: -100%;
-  left: -25%;
+  top: -130%;
+  left: -30%;
 }
 .bg-pattern-bottom {
-  bottom: -100%;
-  right: -30%;
+  bottom: -130%;
+  right: -40%;
 }
 
 .top {
